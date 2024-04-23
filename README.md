@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pradeep Verma
-- 👀 I’m interested in Predicting Models
-- 🌱 I’m currently a ML Dl and NLP Engineer
-- 📫 How to reach me pv4042609@gmail.com
+- 👀 I’m interested in Building and predicting Models
+- 🌱 I’m currently a ML DL and NLP Engineer 
+- 📫 Reach at me pv4042609@gmail.com
 
